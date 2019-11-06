@@ -3,27 +3,27 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/archives/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/archives/</loc>
   </url>
   
   <url>
-    <loc>/categories/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/categories/</loc>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/post/</loc>
   </url>
   
   <url>
-    <loc>/tags/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/tags/</loc>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/</loc>
   </url>
   
   <url>
-    <loc>/1/01/this-is-a-test/</loc>
+    <loc>/www.survivorcasefiles.netlify.com/1/01/this-is-a-test/</loc>
   </url>
   
 </urlset>
