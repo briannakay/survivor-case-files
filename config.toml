@@ -118,7 +118,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Survivor by the Numbers"
+  description = "The Survivor Case Files: Survivor by the Numbers"
 
   # Customization
   # Define the behavior of the sidebar
