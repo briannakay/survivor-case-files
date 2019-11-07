@@ -6,7 +6,6 @@ $open-sans:            'Open Sans';
 $open-sans-sans-serif: 'Open Sans', sans-serif;
 $merriweather-serif:   'Merriweather', serif;
 $menlo:                 Menlo, Consolas, monospace;
-$gaegu:					'Gaegu', cursive;
 
 $font-family-base: $open-sans-sans-serif;
 
@@ -23,7 +22,7 @@ $font-families: (
    'post-excerpt-link': $open-sans-sans-serif,
    'highlight':         $menlo,
    // layout
-   'sidebar':           $gaegu
+   'sidebar':           $open-sans-sans-serif
 );
 
 // equal to 15px
